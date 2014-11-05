@@ -10,12 +10,12 @@ namespace ConsoleApplication1
 	{
 		static void Main(string[] args)
 		{
-			//regregfgfdgerregergergghjghjgjhgergergregegdfgdfgdg
+			//regregfgfdgerrefgfggergergregeg
 		}
 
-		static void test()
-		{
-			//ewgwegweg
+        static void Test()
+        {
+
 		}
 	}
 }
