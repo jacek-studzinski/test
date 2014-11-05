@@ -12,5 +12,10 @@ namespace ConsoleApplication1
 		{
 			//regregfgfdgerregergergghjghjgjhgergergregegdfgdfgdg
 		}
+
+		static void test()
+		{
+			//ewgwegweg
+		}
 	}
 }
